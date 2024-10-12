@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kenan
-- 👀 I’m interested in ... web design and data annotation
+<!---- 👀 I’m interested in ... web design and data annotation
 - 🌱 I’m currently learning ... Computer science
 - 📫 How to reach me ... kenankiplimo@gmail.com
-<!---- 💞️ I’m looking to collaborate on ...--->
+ 💞️ I’m looking to collaborate on ...--->
 <!---- 😄 Pronouns: ...
 - ⚡ Fun fact: ...--->
 
